@@ -1,6 +1,6 @@
-# SocialMate - Windows Desktop Application 🚀
+# Facebook-WinForms - Windows Desktop Application 🚀
 
-Welcome to SocialMate, a Windows desktop application designed to enhance your Facebook experience. In this application, I've integrated various design patterns to provide a user-friendly interface, implementing features that go beyond the standard Facebook experience.
+Welcome to Facebook-WinForms, a Windows desktop application designed to enhance your Facebook experience. In this application, I've integrated various design patterns to provide a user-friendly interface, implementing features that go beyond the standard Facebook experience.
 
 ## Features
 
